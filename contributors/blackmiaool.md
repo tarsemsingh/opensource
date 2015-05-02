@@ -9,5 +9,5 @@ agreement and sign this declaration.
 
 Signed,
 
-blackmiaool
+Kim Black 
 https://github.com/blackmiaool

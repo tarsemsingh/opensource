@@ -9,5 +9,5 @@ agreement and sign this declaration.
 
 Signed,
 
-[Nat]
+[Nathaniel Sheppard]
 https://github.com/Nsheppard01

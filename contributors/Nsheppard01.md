@@ -1,4 +1,4 @@
-6-15-2015
+2015-06-15
 
 I hereby agree to the terms of the Individual Contributor License
 Agreement, version 2.0, with MD5 checksum

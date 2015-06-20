@@ -50,14 +50,14 @@ agreement and sign this declaration.
 
 Signed,
 
-[your name]
+[your full real name]
 https://github.com/[your github userid]
 ```
 
 Replace the bracketed text as follows:
 
 * `[date]` with today's date, in the unambiguous numeric form `YYYY-MM-DD`.
-* `[your name]` with your name.
+* `[your full real name]` with your full real name.
 * `[your github userid]` with your GitHub userid.
 
 You can confirm the MD5 checksum of the CLA by running the md5 program over `cla.md`:
@@ -85,7 +85,7 @@ of the Individual Contributor License Agreement V2.0.
 
 Signed,
 
-[your name]
+[your full real name]
 https://github.com/[your github userid]
 [your address]
 [your phone number]
@@ -93,7 +93,7 @@ https://github.com/[your github userid]
 
 Replace the bracketed text as follows:
 
-* `[your name]` with your name.
+* `[your full real name]` with your full real name.
 * `[your github userid]` with your GitHub userid.
 * `[your address]` with a physical mailing address at which you can be contacted.
 * `[your phone number]` with a phone number at which you can be contacted.
